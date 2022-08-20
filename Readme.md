@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/Abhigyan-Srivastava">
-  <img title="🔥" alt="Ishan top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-Srivastava&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
+  <img title="🔥" alt="Abhigyan's top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-Srivastava&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
   </a>
 </p>
 
@@ -76,8 +76,8 @@
 
 <p align="center">
   <a href="https://github.com/Abhigyan-Srivastava">
-  <img title="🔥" alt="Abhigyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhigyan-Srivastava&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
+  <img title="🔥" alt="Abhigyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhigyan-Srivastava&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
   <br>
-  <img title="🔥" alt="Ishan Github Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=Abhigyan-Srivastava&theme=xcode"/>
+  <img title="🔥" alt="Abhigyan's Github Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=Abhigyan-Srivastava&theme=xcode"/>
   </a>
 </p>
