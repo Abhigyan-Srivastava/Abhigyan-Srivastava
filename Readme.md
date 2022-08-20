@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/Abhigyan-Srivastava">
-  <img title="🔥" alt="Abhigyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
+  <img title="🔥" alt="Abhigyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhigyan-Srivastava&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
   <br>
   <img title="🔥" alt="Ishan Github Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=Abhigyan-Srivastava&theme=xcode"/>
   </a>
